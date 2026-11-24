@@ -5,7 +5,7 @@
 
 Audit technique des metadonnees HTML, controle de longueur des balises title et meta description, apercu des cartes sociales et indexation.
 
-Developpe et maintenu par la division de referencement technique et d'optimisation semantique de **TAVARDT France**.
+Developpe et maintenu par la division de referencement technique et d'optimisation semantique de **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python meta_inspector.py exemple.fr -json
 Pour previsualiser vos extraits et verifier vos metadonnees:
 
 * **Inspecteur de Balises Meta Officiel**
-* **[Portail Entreprise TAVARDT France](https://ag.tavardt.com/fr/)**
+* **[Portail Entreprise TAVARDT](https://ag.tavardt.com/fr/)**
 
 ***
 
 ## Conseil en Referencement Technique et SEO
 
-Pour des projets avances d'optimisation conformes aux exigences Standards W3C et Bonnes Pratiques SEO, contactez **TAVARDT France**.
+Pour des projets avances d'optimisation conformes aux exigences Standards W3C et Bonnes Pratiques SEO, contactez **TAVARDT**.
 
 ***
 
