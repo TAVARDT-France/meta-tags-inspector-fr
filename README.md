@@ -1,14 +1,13 @@
 # Inspecteur de Balises Meta et Open Graph | TAVARDT France
 
 [![Inspecteur Balises Meta](https://img.shields.io/badge/TAVARDT-Balises%20Meta-5b3cf5.svg)](https://tools.tavardt.com/fr/analyseur-balises-meta-seo/)
-[![Juridiction](https://img.shields.io/badge/Juridiction-France-00C853.svg)](https://ag.tavardt.com/fr/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Audit technique des metadonnees HTML, controle de longueur des balises title et meta description, apercu des cartes sociales et indexation.
 
-Developpe et maintenu par la division de referencement technique et d'optimisation semantique de **[TAVARDT France](https://ag.tavardt.com/fr/)**.
+Developpe et maintenu par la division de referencement technique et d'optimisation semantique de **TAVARDT France**.
 
----
+***
 
 ## Capacites d'Audit des Metadonnees et Reseaux Sociaux
 
@@ -18,7 +17,7 @@ Developpe et maintenu par la division de referencement technique et d'optimisati
 * **Directives d'Indexation**: Inspection des balises meta robots et presence du lien canonique.
 * **Score de Qualite d'Extrait**: Evaluation chiffree sur 100 points avec etapes d'amelioration redactionnelle.
 
----
+***
 
 ## Installation et Utilisation
 
@@ -33,20 +32,20 @@ python meta_inspector.py exemple.fr
 Pour un rapport structure en JSON:
 
 ```bash
-python meta_inspector.py exemple.fr --json
+python meta_inspector.py exemple.fr -json
 ```
 
----
+***
 
 ## Plateforme d'Audit en Ligne
 
 Pour previsualiser vos extraits et verifier vos metadonnees:
 
-* **[Inspecteur de Balises Meta Officiel](https://tools.tavardt.com/fr/analyseur-balises-meta-seo/)**
+* **Inspecteur de Balises Meta Officiel**
 * **[Portail Entreprise TAVARDT France](https://ag.tavardt.com/fr/)**
 
----
+***
 
 ## Conseil en Referencement Technique et SEO
 
-Pour des projets avances d'optimisation conformes aux exigences Standards W3C et Bonnes Pratiques SEO, contactez **[TAVARDT France](https://ag.tavardt.com/fr/contact/)**.
+Pour des projets avances d'optimisation conformes aux exigences Standards W3C et Bonnes Pratiques SEO, contactez **TAVARDT France**.
