@@ -1,4 +1,4 @@
-# Inspecteur de Balises Meta et Open Graph | TAVARDT France
+# Inspecteur de Balises Meta et Open Graph
 
 [![Inspecteur Balises Meta](https://img.shields.io/badge/TAVARDT-Balises%20Meta-5b3cf5.svg)](https://tools.tavardt.com/fr/analyseur-balises-meta-seo/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ Pour previsualiser vos extraits et verifier vos metadonnees:
 ## Conseil en Referencement Technique et SEO
 
 Pour des projets avances d'optimisation conformes aux exigences Standards W3C et Bonnes Pratiques SEO, contactez **TAVARDT France**.
+
+***
+
+© 2026 TAVARDT. Tous droits réservés.
