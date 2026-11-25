@@ -2,6 +2,7 @@
 
 [![Inspecteur Balises Meta](https://img.shields.io/badge/TAVARDT-Balises%20Meta-5b3cf5.svg)](https://tools.tavardt.com/fr/analyseur-balises-meta-seo/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Audit technique des metadonnees HTML, controle de longueur des balises title et meta description, apercu des cartes sociales et indexation.
 
@@ -57,6 +58,11 @@ Pour des projets avances d'optimisation conformes aux exigences Standards W3C et
 * **Portail Entreprise:** https://ag.tavardt.com/fr/
 * **Suite de Diagnostic:** https://tools.tavardt.com/fr/
 * **Contact Technique:** https://ag.tavardt.com/fr/contact/
+
+***
+
+### Licence
+Distribué sous la licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ***
 
