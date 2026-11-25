@@ -6,8 +6,6 @@
 
 Audit technique des metadonnees HTML, controle de longueur des balises title et meta description, apercu des cartes sociales et indexation.
 
-Developpe et maintenu par la division de referencement technique et d'optimisation semantique de **TAVARDT**.
-
 ***
 
 ## Capacites d'Audit des Metadonnees et Reseaux Sociaux
@@ -38,15 +36,6 @@ python meta_inspector.py exemple.fr -json
 
 ***
 
-## Plateforme d'Audit en Ligne
-
-Pour previsualiser vos extraits et verifier vos metadonnees:
-
-* **Inspecteur de Balises Meta Officiel**
-* **[Portail Entreprise TAVARDT](https://ag.tavardt.com/fr/)**
-
-***
-
 ## Conseil en Referencement Technique et SEO
 
 Pour des projets avances d'optimisation conformes aux exigences Standards W3C et Bonnes Pratiques SEO, contactez **TAVARDT**.
@@ -62,7 +51,7 @@ Pour des projets avances d'optimisation conformes aux exigences Standards W3C et
 ***
 
 ### Licence
-Distribué sous la licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
+Distribué sous la licence MIT.
 
 ***
 
